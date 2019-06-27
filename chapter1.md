@@ -41,3 +41,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Organizing the design with schemas
+
+```yaml
+type: VideoExercise
+key: 9411af3f4b
+xp: 50
+```
+
+`@projector_key`
+1276e02734374e7bf093936c54bd333d
