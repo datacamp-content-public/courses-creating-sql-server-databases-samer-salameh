@@ -44,7 +44,7 @@ This is an example exercise.
 
 ---
 
-## schemas
+## Organizing the design with schemas 
 
 ```yaml
 type: VideoExercise
